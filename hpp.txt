@@ -1,0 +1,2 @@
+-rwxrwxrwx 1 codespace codespace 21448 Dec  2 23:39 ./lol
+-rwxrwxrwx 1 codespace codespace 21592 Dec  2 23:42 ./lol2
